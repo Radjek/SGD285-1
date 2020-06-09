@@ -54,13 +54,13 @@ public class SGD285_1
            new UserQuote("Hannah Sprinkle", "There are no happy endings, endings are the saddest part. So just give me a happy middle and a very happy start. -Shel Silverstein"),
            new UserQuote("Evy Kollstrand", "You never know until you know, you know"),
            new UserQuote("Keivon Arooji", "Education is what remains after one has forgotten what one has learned in school. -Albert Einstein"),
-           new UserQuote("Darius Samani", "If I had nine hours to chop down a tree, I’d spend the first six sharpening my axe.” – Abraham Lincoln"),
+           new UserQuote("Darius Samani", "If I had nine hours to chop down a tree, Iï¿½d spend the first six sharpening my axe.ï¿½ ï¿½ Abraham Lincoln"),
            new UserQuote("Samuel Hinkelman", "If you never stop learning you will never stop seeing the possibilities. -Bill Gates"), /* Brilliant quote! - Aliyah Day */
            new UserQuote("Tobias Gladden", "I? I am a monument to all your sins. - The Gravemind"),
            new UserQuote("Samuel Hinkelman", "If you never stop learning you will never stop seeing the possibilities. -Bill Gates"),
            new UserQuote("Aliyah Day", "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty. -Maya Angelou"),
            new UserQuote("Perry Courter", "Hell of a thing killing a man, you take away all he has, and everything he is ever gunna be - Clint Eastwood" ),
-           new UserQuote("This is a Test", "Something witty is supposed to go here = Me")
+           new UserQuote("This is a Test", "Something witty is supposed to go here - Instructor")
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list.
            // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure
            // your program compiles and runs locally, then push to the git repository on GitHub.
